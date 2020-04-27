@@ -1,4 +1,4 @@
-# Chuliang Song, Serguei Saavedra. "Telling ecological networks apart by their structure: An environment-dependent approach" PLOS Computational Biology.
+# Chuliang Song, Serguei Saavedra. "Telling ecological networks apart by their structure: An environment-dependent approach" PLOS Computational Biology. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007787
 
 
 The file contains the R-code and data:
